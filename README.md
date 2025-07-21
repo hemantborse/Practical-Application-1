@@ -18,8 +18,9 @@ extensive use of pandas to read / create dataset followed by
     3) Cleaning / convering Age Column data in meaning ful data for rows having text values.
 Use of Seanborn library to plot barplots to analyse data
 artimatic and functions to calculate and round percentage values.
-
+------------------------------------------------------------------------------------------------------------
 **Conclusion of this assignment / analysis of data is - **
+------------------------------------------------------------------------------------------------------------
 **Bar Coupons : **
 Frequency of bar Visit : Drives who go more than once to bar largely accpeted bar coupons
 Passenger impact : it is clear that Adult passengers with no kids as passengers also largely accepted coupons
