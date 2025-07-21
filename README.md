@@ -6,9 +6,11 @@ Imagine driving through town and a coupon is delivered to your cell phone for a 
 
 Obviously, proximity to the business is a factor on whether the coupon is delivered to the driver or not, but what are the factors that determine whether a driver accepts the coupon once it is delivered to them? How would you determine whether a driver is likely to accept a coupon?
 
-**Overview**
-
+**Overview or problem statemant **
+Find out different patterns/ analysis of different type of drivers accepted ot rejected coupons and what are factors affecting their decision?
 The goal of this project is to use what you know about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.
+
+**notebook code :** https://github.com/hemantborse/Practical-Application-1/blob/main/prompt.ipynb
 
 **I used quite a few things which I learned from Module 1 to Module 4 in this course.
 first importing all necessary libraris such as Pandands,Seaborn,matplotlib and numpy
@@ -21,6 +23,7 @@ arithmatic and functions to calculate and round percentage values.**
 ------------------------------------------------------------------------------------------------------------
 Conclusion of this assignment / analysis of data is - 
 ------------------------------------------------------------------------------------------------------------
+
 **Bar Coupons :**
 Frequency of bar Visit : Drives who go more than once to bar largely accpeted bar coupons
 Passenger impact : it is clear that Adult passengers with no kids as passengers also largely accepted coupons
