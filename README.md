@@ -10,24 +10,24 @@ Obviously, proximity to the business is a factor on whether the coupon is delive
 
 The goal of this project is to use what you know about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.
 
-I used quite a few things which I learned from Module 1 to Module 4 in this course.
-first importing all necessary libraris such as Pandands,Seaborn,matplotliband numpy
+**I used quite a few things which I learned from Module 1 to Module 4 in this course.
+first importing all necessary libraris such as Pandands,Seaborn,matplotlib and numpy
 extensive use of pandas to read / create dataset followed by 
     1) Identifying null values and deciding to drop or replace values - I used both
     2) Converting String type Age Column in to Int
     3) Cleaning / convering Age Column data in meaning ful data for rows having text values.
 Use of Seanborn library to plot barplots to analyse data
-artimatic and functions to calculate and round percentage values.
+arithmatic and functions to calculate and round percentage values.**
 ------------------------------------------------------------------------------------------------------------
-**Conclusion of this assignment / analysis of data is - **
+Conclusion of this assignment / analysis of data is - 
 ------------------------------------------------------------------------------------------------------------
-**Bar Coupons : **
+**Bar Coupons :**
 Frequency of bar Visit : Drives who go more than once to bar largely accpeted bar coupons
 Passenger impact : it is clear that Adult passengers with no kids as passengers also largely accepted coupons
 Passenger occupations : frequency to visit morethan ones with no kids as passenger plus occupations other than farming, fishing, or forestry largely accpeted coupons
 income impact and restaurant spending : drivers going to cheap restaurants and income less than 50K are on on lower side of acceptance of coupons
 
-**Coffee Coupons :** 
+**Coffee Coupons :**
 overall coffee hous coupon acceptace is half and half i.e 50%
 Frequency of visits : Drivers who visited coffee house more than once has higher rate of coupoun acceptance
 Temprature impact : looking at percentage , tempratures do not make that big of a difference in acceptance rate
