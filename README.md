@@ -6,7 +6,7 @@ Imagine driving through town and a coupon is delivered to your cell phone for a 
 
 Obviously, proximity to the business is a factor on whether the coupon is delivered to the driver or not, but what are the factors that determine whether a driver accepts the coupon once it is delivered to them? How would you determine whether a driver is likely to accept a coupon?
 
-**Overview or problem statemant **
+**problem statemant**
 Find out different patterns/ analysis of different type of drivers accepted ot rejected coupons and what are factors affecting their decision?
 The goal of this project is to use what you know about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.
 
